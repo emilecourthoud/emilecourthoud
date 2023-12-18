@@ -1,1 +1,1 @@
-### Hi there 👋 Meet [Emile](https://www.linkedin.com/in/emile-courthoud/)!
+Hi there 👋 Meet [Emile](https://www.linkedin.com/in/emile-courthoud/)!
