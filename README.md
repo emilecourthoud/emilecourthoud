@@ -1,6 +1,6 @@
-Hi there 👋 Meet [Emile](https://www.linkedin.com/in/emile-courthoud/), currently Founding Engineer at acemate
+Hi there 👋 Meet [Emile](https://www.linkedin.com/in/emile-courthoud/)!
 
-If you wanna know more about me, check my [LinkedIn](https://www.linkedin.com/in/emile-courthoud/).
+I'm currenlty working as Founding Engineer at [acemate - AI for education](https://acemate.ai/). 
 
 Personal projects
 - [Booklet app](https://www.booklet-app.com/) - Learn languages by reading books
@@ -8,3 +8,5 @@ Personal projects
 - [Barbarossa](https://barbarossa-app.vercel.app/) - Your AI voice agent that answers to unwanted calls (work in progress)
 - [Space tracker](https://www.emilecourthoud.com/space-tracker) - Graphics and animations depicting the history of space exploration (work in progress)
 - [Learn Smart app](https://www.emilecourthoud.com/blogs/impact-of-ai-on-education-and-learn-smart) - App to learn with support of AI (archived)
+
+If you wanna know more about me, check my [LinkedIn](https://www.linkedin.com/in/emile-courthoud/).
