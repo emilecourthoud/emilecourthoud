@@ -1,4 +1,4 @@
-Hi there 👋 My name is [Emile](https://www.linkedin.com/in/emile-courthoud/){:target="_blank" rel="noopener"}!
+Hi there 👋 My name is [Emile](https://www.linkedin.com/in/emile-courthoud/)!
 
 I'm currenlty working as Founding Engineer at [acemate - AI for education](https://acemate.ai/). If you wanna know more about me, check my [LinkedIn](https://www.linkedin.com/in/emile-courthoud/) or [get in touch](https://www.emilecourthoud.com/connect).
 
