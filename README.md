@@ -2,7 +2,9 @@ Hi there 👋 My name is [Emile](https://www.linkedin.com/in/emile-courthoud/)!
 
 I'm currenlty working as Founding Engineer at [acemate - AI for education](https://acemate.ai/). If you wanna know more about me, check my [LinkedIn](https://www.linkedin.com/in/emile-courthoud/) or [get in touch](https://www.emilecourthoud.com/connect).
 
-Personal projects
+---
+
+Personal projects:
 - [Booklet app](https://www.booklet-app.com/) - Learn languages by reading books
 - [www.emilecourthoud.com](https://www.emilecourthoud.com/) - Personal website
 - [Barbarossa](https://barbarossa-app.vercel.app/) - Your AI voice agent that answers to unwanted calls (work in progress)
